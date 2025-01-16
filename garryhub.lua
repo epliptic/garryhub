@@ -2874,6 +2874,7 @@ local function createGui(parent)
 		
 	end)
 end
+createGui(game.CoreGui) --coregui by default you should but change it
 
 print("i luv cats🐈")
 createGui(game.CoreGui) --coregui by default you should but change it
